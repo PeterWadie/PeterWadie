@@ -1,6 +1,5 @@
-### Hi there 👋
-
 <!--
+### Hi there 👋
 **PeterAbdalla/PeterAbdalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PeterAbdalla&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727&sideLabels=DD2727)](https://git.io/streak-stats)
