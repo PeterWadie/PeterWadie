@@ -1,8 +1,9 @@
-Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I am Peter Abdalla
-=================================
+Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-Software Engineer
------------------------
+I am Peter Abdalla
+=================================
+A Software Engineer
+=================================
 
 * 🌍  I'm based in Cairo, Egypt
 * ✉️  You can contact me at [peter.adel.abdallah@gmail.com](mailto:peter.adel.abdallah@gmail.com)
@@ -44,5 +45,3 @@ Software Engineer
 <a href="http://www.github.com/peterabdalla"><img src="https://github-readme-streak-stats.herokuapp.com/?user=peterabdalla&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/peterabdalla"><img src="https://activity-graph.herokuapp.com/graph?username=peterabdalla&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/peterabdalla" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterabdalla&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
