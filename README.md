@@ -7,7 +7,7 @@ A Software Engineer
 
 * 🌍  I'm based in Cairo, Egypt
 * ✉️  You can contact me at [peter.adel.abdallah@gmail.com](mailto:peter.adel.abdallah@gmail.com)
-* 🚀  I'm currently working on building my own startup!
+* 🚀  I'm currently searching for new opportunities!
 
 ### Skills
 
