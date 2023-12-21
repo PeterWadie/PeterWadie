@@ -21,8 +21,7 @@
 
 <!-- <a href="http://www.github.com/peterabdalla"><img src="https://activity-graph.herokuapp.com/graph?username=peterabdalla&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 
-![image](https://github.com/PeterAbdalla/PeterAbdalla/assets/47214483/05aa68fd-b7ec-4872-b3d9-5cac480e4de3)
-
+![image](https://github.com/PeterAbdalla/PeterAbdalla/assets/47214483/f083319c-ae0d-4853-9593-97f4077b2624)
 
 ## Wakatime
 
