@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Peter Abdalla</h1>
+<h1 align="center">Hi 👋, I'm Peter Wadie</h1>
 <h3 align="center">A Passionate Full Stack Software Engineer</h3>
 
 - 🔭 I’m currently working at [Truebase](https://www.truebase.io/)
@@ -15,17 +15,12 @@
 
 ## Github
 
-<!-- <a href="http://www.github.com/peterabdalla"><img src="https://github-readme-stats.vercel.app/api?username=peterabdalla&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="peterabdalla's GitHub stats" /></a> -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PeterAbdalla&theme=dark&hide_border=true&border_radius=0)](https://git.io/streak-stats)
 
-<a href="http://www.github.com/peterabdalla"><img src="https://github-readme-streak-stats.herokuapp.com/?user=peterabdalla&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<!-- <a href="http://www.github.com/peterabdalla"><img src="https://activity-graph.herokuapp.com/graph?username=peterabdalla&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
-
-![image](https://github.com/PeterAbdalla/PeterAbdalla/assets/47214483/2cb9cd88-511f-43de-81ef-54203d4c32a5)
-
-
+<!--
 ## Wakatime
 
 <a href="https://wakatime.com/@PeterAbdalla"><img src="https://wakatime.com/share/@PeterAbdalla/d833740e-bd50-48ce-a82b-a21080a2efd5.svg" /></a>
 
 <a href="https://wakatime.com/@PeterAbdalla"><img src="https://wakatime.com/share/@PeterAbdalla/2ebf4623-26ea-44e8-9755-ec3b36b674f5.svg" /></a>
+-->
