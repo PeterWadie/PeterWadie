@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Peter Wadie</h1>
-<h3 align="center">A Passionate Full Stack Software Engineer</h3>
-
-- 🔭 I’m currently working at [Truebase](https://www.truebase.io/)
+<h3 align="center">A Passionate Full Stack Senior Software Engineer</h3>
 
 - 📫 How to reach me **peter.a.wadie@gmail.com**
-
-- 📄 Know about my experiences from my [linkedin](https://www.linkedin.com/in/peterwadie/)
 
 # Socials
 
